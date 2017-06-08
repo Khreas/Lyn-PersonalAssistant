@@ -1,0 +1,17 @@
+body {
+	/*background-image: url("img/lake.jpg");	*/
+	background-color: black;
+    background-size: cover;
+    font-family: 'Open Sans';
+}
+
+.big-font {
+    font-size: 120%;
+    /*background-color: white;*/
+}
+
+.center {
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
