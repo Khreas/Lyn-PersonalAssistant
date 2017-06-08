@@ -1,5 +1,5 @@
 body {
-	background-image: url("img/lake.jpg");	
+	background-image: url("img/lake2.jpg");	
 	/*background-color: black;*/
     background-size: cover;
     font-family: 'Open Sans';
@@ -7,7 +7,10 @@ body {
 
 .big-font {
     font-size: 120%;
-    /*background-color: white;*/
+}
+
+.navbar-light .navbar-nav .nav-item > .nav-link {
+	color:rgba(255, 255, 255, 1);
 }
 
 .center {
